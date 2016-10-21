@@ -1,4 +1,7 @@
 {
+  "name": "iflow",
+  "version": "0.0.1",
+  "license": "SEE LICENSE",
   "private": true,
   "scripts": {
     "test": "./test.sh"
